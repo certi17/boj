@@ -35,7 +35,7 @@ int dfs(int a)
 
 int main()
 {
-	freopen("9576_test.txt", "r", stdin);
+	freopen("9576.txt", "r", stdin);
 	setbuf(stdout, NULL);
 
 	int s, e, count;
