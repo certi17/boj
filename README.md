@@ -2,9 +2,10 @@
 
 //생활코딩
 //input data
-https://www.g30bizidea.kr:44981/sub/sub2_1.php
-https://www.data.go.kr/
-http://terms.naver.com/entry.nhn?docId=3534416&cid=58540&categoryId=58540
+
+공공데이터https://www.data.go.kr/
+
+국내외 공모전 소개 http://terms.naver.com/entry.nhn?docId=3534416&cid=58540&categoryId=58540
 
 
 //알고리즘
