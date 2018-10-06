@@ -28,3 +28,8 @@ grep "name" -r
 * windows
 findstr /s "name" *.*
 
+
+
+vim 설정파일 수정
+
+vim ~/.vimrc <- 즉 나만의 vimrc를 만들어 git 에 넣고 사용이 가능함!
